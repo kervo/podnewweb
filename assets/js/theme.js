@@ -337,7 +337,7 @@ var navbarInit = function navbarInit() {
 function Year(event) {
   var doc = event.timeStamp;
   document.getElementById("y").innerHTML = doc;
-}
+};
 
 // /* -------------------------------------------------------------------------- */
 // /*                            Theme Initialization                            */
