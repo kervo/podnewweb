@@ -332,7 +332,14 @@ var navbarInit = function navbarInit() {
       navbar.style.transition = 'none';
     });
   }
-}; // /* -------------------------------------------------------------------------- */
+}; 
+
+function Year(event) {
+  var doc = event.timeStamp;
+  document.getElementById("y").innerHTML = doc;
+}
+
+// /* -------------------------------------------------------------------------- */
 // /*                            Theme Initialization                            */
 // /* -------------------------------------------------------------------------- */
 
