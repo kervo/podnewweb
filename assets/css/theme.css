@@ -95,9 +95,11 @@ h1, .h1 {
   font-size: calc(1.37383rem + 1.48598vw);
 }
 
-.st0{fill:#E30528;}
-.st1{fill:#652D87;}
-.st2{fill:#BBD034;}
+st0{fill:#E30528;}
+
+st1{fill:#652D87;}
+
+st2{fill:#BBD034;}
 
 @media (min-width: 1200px) {
   h1, .h1 {
