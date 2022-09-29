@@ -14,11 +14,9 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-st0{fill:#E30528;}
-
-st1{fill:#652D87;}
-
-st2{fill:#BBD034;}
+.st0{fill:#E30528;}
+.st1{fill:#652D87;}
+.st2{fill:#BBD034;}
 
 :root {
   --bs-blue: #387BF5;
