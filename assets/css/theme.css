@@ -5147,11 +5147,11 @@ fieldset:disabled .btn {
 }
 
 .navbar-light .navbar-brand {
-  color: #F53838;
+  color: #652D87;
 }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: #F53838;
+  color: #652D87;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -5168,7 +5168,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #F53838;
+  color: #652D87;
 }
 
 .navbar-light .navbar-toggler {
@@ -5187,7 +5187,7 @@ fieldset:disabled .btn {
 .navbar-light .navbar-text a,
 .navbar-light .navbar-text a:hover,
 .navbar-light .navbar-text a:focus {
-  color: #F53838;
+  color: #652D87;
 }
 
 .navbar-dark .navbar-brand {
